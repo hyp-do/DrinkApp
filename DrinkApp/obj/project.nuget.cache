@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HvbjhJvDN3tRkTvuBfPmxAvVEAH52DkTvmxyueBtkodDMEd9eOpKiFUS2MnkgFBSgzDs/QntRuS/Vj0v+D3/ww==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\DrinkApp\\DrinkApp\\DrinkApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
